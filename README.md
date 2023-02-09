@@ -1,2 +1,2 @@
-0X00
-  
+Script for pwd
+ 
