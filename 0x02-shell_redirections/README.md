@@ -1,2 +1,2 @@
-Display the content of the
-  
+Display the content of 2 files
+ 
